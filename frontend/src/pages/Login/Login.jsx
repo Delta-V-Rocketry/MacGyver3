@@ -5,19 +5,22 @@ function Login() {
             <div className="login-logo">
                 <img src="/assets/logo.png" alt="MacGyver Logo" />
                 <h1>DeltaV Rocketry</h1>
-            </div>
+            </div> {/* Logo e título */}
 
         <h2>Login</h2>
         <div className="login-field">
             <label>E-mail</label>
             <input type="email" placeholder="Enter your e-mail" />
-        </div>
+        </div> {/* Campo de e-mail */}
+
         <div className="login-field">
             <label>Senha</label>
             <input type="password" placeholder="Insira sua senha" />
-        </div>
+        </div> {/* Campo de senha */}
+        
         <button className="login-btn">Acessar</button>
-      </div>
+      </div> {/* Botão de login */}
+    
     </div>
   );
 }
