@@ -1,9 +1,10 @@
+import logo from '../../assets/DetaV_Logo.jpeg';
 function Login() {
     return (
         <div className="login-container">
           <div className="login-card">
             <div className="login-logo">
-                <img src="/assets/logo.png" alt="MacGyver Logo" />
+                <img src={logo} alt="DeltaV Logo" />
                 <h1>DeltaV Rocketry</h1>
             </div> {/* Logo e título */}
 
