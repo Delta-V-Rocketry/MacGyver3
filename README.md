@@ -17,7 +17,7 @@ O sistema foi concebido para centralizar a administração da equipe, facilitand
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagens:** JavaScript(tecnologias conjuntas - React), HTML, CSS, Python(tecnologias conjuntas) e MySql.
-* **Ambiente web:** Azure, Azure Cloud, Azure Web
+* **Ambiente digital:** Azure, Azure Cloud, Azure Web
 
 ## License / Usage
 Copyright (c) 2026 Delta-V Rocketry, Vinicius Chaves and Luiz Eduardo Lima.
